@@ -27,7 +27,7 @@ Some instance variables are declared upon intitialization of the class. However,
 See link below:
 
 <a href="https://youtu.be/_YpnY-UPNKg" target="_blank">
-   <img src="https://github.com/junaidalam2/MySqlite/blob/main/videoThumbnail.png">
+   <img src="https://github.com/junaidalam2/MySqlite/blob/main/videoThumbnail.jpg">
 </a>
 
 ## Tech Stack
